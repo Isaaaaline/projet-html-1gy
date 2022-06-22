@@ -4,7 +4,11 @@ h2 {
 
 }
 h1 {
-    color: black;
+    color: rgb(21, 22, 78);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3 {
+    color: rgb(21, 22, 78);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 figure {
@@ -20,3 +24,17 @@ youtube{
     display: block;
     max-width: 100px;
 }
+
+texte {
+    color: rgb(21, 22, 78);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p {
+    color: rgb(21, 22, 78);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body {
+    color:black;
+    background-color:rgb(223, 222, 222);
+
+    }
