@@ -1,6 +1,6 @@
-h2.red {
-    color: red;
-}
+h2. {
+    color: rgb(21, 22, 78);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 h2.blue {
     color: rgb(0, 0, 0);
