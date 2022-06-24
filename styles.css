@@ -11,6 +11,7 @@ h3 {
     color: rgb(21, 22, 78);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
 .figure {
     width: 60%;
     margin-left: auto;
@@ -25,16 +26,19 @@ youtube{
     max-width: 100px;
 }
 
-texte {
-    color: rgb(21, 22, 78);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+
+
 p {
     color: rgb(21, 22, 78);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-body {
-    color:black;
-    background-color:rgb(223, 222, 222);
 
-    }
+a {
+    color: rgb(21, 22, 78);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+texte {
+    color: rgb(21, 22, 78);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
