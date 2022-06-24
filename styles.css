@@ -19,10 +19,10 @@ h3 {
     display: block;
 }
 
-youtube{
+.section-video {
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    display: block;
     max-width: 100px;
 }
 
